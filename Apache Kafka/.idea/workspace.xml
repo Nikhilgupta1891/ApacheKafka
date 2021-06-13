@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89904c73-6aab-4414-9f94-c5e51bde9c1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/com/github/apachekafka/kafka/tutorial1/ProducerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623596534917</updated>
       <workItem from="1623596536412" duration="11000" />
-      <workItem from="1623596629134" duration="338000" />
+      <workItem from="1623596629134" duration="721000" />
     </task>
     <servers />
   </component>
